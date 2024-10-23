@@ -55,10 +55,13 @@ Professional skepticism is crucial to:
 - **Transparency and Open Standards**: Promote open standards to minimize obfuscation.
 - **Educational Programs**: Foster professional skepticism through ongoing training.
 
-# APPENDIX A: Degrees of Skepticism
+## [Appendix A: Degrees of Skepticism](./appendixA.png)
+
+
 The degree of skepticism should increase based on the layers of separation from the root product. The formula provided calculates skepticism, taking into account shared layers developed by the same team.
 
-# APPENDIX A.2: Degrees of Skepticism Summary
+## [Appendix A: Degrees of Skepticism Summary](./degrees_of_skepticism.md#degrees_of_skepticism.md)
+
 Greater separation from the codebase requires heightened scrutiny. Transparency ensures accountability, crucial in sectors like federal procurement.
 
 # ABOUT US
