@@ -49,7 +49,7 @@ The goal is to develop a set of structured prompts that acquisition teams can us
 ### Prompts:
 1. *"How were you fine-tuned or customized for this specific application or use case?"*
 2. *"What kind of domain-specific datasets were used to improve your performance in specialized tasks?"*
-3. *"Can you provide an example of how you would handle queries specific to [insert domain, e.g., finance, healthcare, legal]?"*
+3. *"Can you provide an example of how you would handle queries specific to [insert domain]?"*
 4. *"If you were trained with additional data, was this process manual or automated?"*
 
 **Goal**: Determine the extent of fine-tuning and customization for specific use cases, which can reveal whether the model has specialized domain knowledge.
