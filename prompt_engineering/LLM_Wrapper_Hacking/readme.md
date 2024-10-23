@@ -45,11 +45,11 @@ To benchmark wrapped products effectively:
 
 ### Significance
 Everyone outside of the "big tech"threshold will most likely create products that distinguish themselves with: 
--added value in how they operate
--value added services
--value-add *to* services provided
--domain trained models that provide better outputs
--suite of product features that synergize with underlying LLM model
+- added value in how they operate
+- value added services
+- value-add *to* services provided
+- domain trained models that provide better outputs
+- suite of product features that synergize with underlying LLM model
 
 ## Landscape
 In a recent test case, I used control prompts outlines in the IT Advisory - Prompt Based LLM Testing and recorded their responses over 10 seperate trials. From this, I noted that all LLMs and wrapped LLMS answer questions about what they are (I am ChatGPT 4.0, I am Llama 3.2, etc).
