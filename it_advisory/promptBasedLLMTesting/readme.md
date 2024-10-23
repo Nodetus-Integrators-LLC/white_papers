@@ -34,7 +34,7 @@ The goal is to develop a set of structured prompts that acquisition teams can us
 
 ---
 
-## Understanding Core LLM Architecture
+## 1. Understanding Core LLM Architecture
 ### Prompts:
 1. *"Can you describe your core model architecture? Are you based on well-known models like GPT-3, GPT-4, or another type?"*
 2. *"How do you differentiate yourself from base models like GPT-4? Can you highlight any key improvements?"*
@@ -123,6 +123,10 @@ The goal is to develop a set of structured prompts that acquisition teams can us
 ---
 
 ## Conclusion
-This prompt-based playbook is designed to be used directly by acquisition teams to test and evaluate the underlying characteristics of LLM models without relying on external tools. The structured questions should help reveal details about the model's architecture, customization, training processes, performance, and security to inform strategic decisions.
+This prompt-based playbook is designed to be used directly by acquisition teams to test and evaluate the underlying characteristics of LLM models without relying on external tools. The structured questions should help reveal details about the model's architecture, customization, training processes, performance, and security to inform strategic decisions. We have provided appendices to this repo to help add more scope to this evolving landscape. In the appendices, we have "Key Factors of LLMs" and "LLM_Value_Worksheet.docx" that will help you start the comparison and start your analysis of alternatives. 
+
 
 **Note**: Ensure that any testing aligns with ethical guidelines and respects the terms of use set by the model's provider.
+
+### Personal Note
+It is this author's understanding that most of the LLM repackages could be part of a larger deal or suite of services. It is good to understand that standalone products that are not value add will be easier to understand and create cost value estimations when procuring these products. 
