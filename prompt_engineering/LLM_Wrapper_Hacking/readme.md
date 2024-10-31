@@ -6,7 +6,7 @@ In the field of IT Advisory, many products integrate a Language Learning Model (
 Understanding how to evaluate these products, particularly in discerning the LLM model and the seperation of product being analyzed is crucial for effective acquisition and decision-making. 
 We explore these prompts in detail as well as how they can be used in analysing alternatives and creating analagous estimates excluding the AI/LLM model thats being used underneath. [IT Advisory - Prompt Based LLM Testing](https://github.com/Nodetus-Integrators-LLC/white_papers/tree/main/it_advisory/promptBasedLLMTesting)
 
-**Author's Note** The AI/LLM models and promise of simplified/ultra productive work structures might give the green flag to federal client, who are happy to spend large amounts on new, breaking edge products. The products being released will increase tenfold over the next year and a half, which means a robust marketplace. I would CAUTION, that the wrapped LLM models bear striking resemblance to the "$*!#coins" that were based on Etherum's blockchain-- **buyer beware**. 
+**Author's Note** The AI/LLM models and promise of simplified/ultra productive work structures might give the green flag to federal client, who are happy to spend large amounts on new, breaking edge products. The products being released will increase tenfold over the next year and a half, which means a robust marketplace. I would CAUTION, that the wrapped LLM models bear striking resemblance to the "$*!#coins" that were based on Etherum's blockchain-- **buyer beware** -- price gouging and hyped vaporware may be a trend in the next 3 to 5 years.
 
 ## Identifying the LLM Backbone
 To determine the underlying LLM:
