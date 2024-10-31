@@ -14,12 +14,12 @@ The white papers in this folder are intended to:
 - **Establish Program Management Oversight**: Integrate Program Management Companies (PMCs) to ensure quality, compliance, and accountability throughout the procurement process.
 
 ## White Papers Available
-### 1. [Modular Microbusiness Sourcing using Simplified Agile Acquisition](./agile-acquisition/modularMicroSourcing)
+### 1. [Modular Microbusiness Sourcing using Simplified Agile Acquisition](./modularMicroSourcing)
 This white paper proposes a dedicated SAT-exclusive portal for SDBs, with a focus on agile, inclusive procurement. It includes PMC oversight to help ensure project success, segmented bidding processes, and capped FTE limitations per contract bid to support quality and manageable workloads.
 
-### 2. [Polymorphic Procurement](./agile-acquisition/polymorphic-procurements)
+### 2. [Polymorphic Procurement](./polymorphic-procurements)
 Polymorphic Procurement focuses on flexible, adaptive contracting structures that promote vendor accountability, enable fleixble language, empowering Key Performance Indicators (KPIs) to shape rewards/penalties and allow for modular contracting.
-#### a. [FLINDER- Functional Line-Item Non-Delivery Rebates](./agile-acquisition/polymorphic-procurements/FLINDR)
+#### a. [FLINDER- Functional Line-Item Non-Delivery Rebates](./polymorphic-procurements/FLINDR)
 - FLINDR itemizes line items and functional areas that are mandatory needs, that if infringed or misrepresented can mean fiscal penalties to vendors who misrepresent their products.
 
 ## How to Use These White Papers
