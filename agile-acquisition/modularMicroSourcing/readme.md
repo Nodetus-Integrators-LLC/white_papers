@@ -1,5 +1,5 @@
 
-# Modular Microbusiness Sourcing using Simplified Agile Acquisition
+# WHITE PAPER | Modular Microbusiness Sourcing using Simplified Agile Acquisition
 
 ---
 
