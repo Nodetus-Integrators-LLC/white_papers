@@ -54,10 +54,6 @@ For FLINDR to succeed, foundational requirements are necessary for all "out-of-b
 
 6. **Demonstrability**: Vendors must be able to demonstrate high-priority features in a test environment or through code review if requested. Failure to demonstrate a feature is grounds for activating the Non-Delivery Rebate clause.
 
-## Use Cases
-1. **NIH Vendor Demo and Procurement**: When procuring SaaS solutions, NIH used FLINDR clauses to mitigate risks from undelivered "out-of-box" functionalities. Vendors demonstrating essential features upfront established greater trust and accountability, protecting NIH from overpaying for unmet capabilities.
-
-2. **USCIS Technology Demonstration**: In a multi-phase procurement, USCIS employed FLINDR to enforce quality during initial technology demos. Vendors showcasing complete feature sets had an advantage, while those with unverified features faced potential rebates.
 
 ## Value Proposition
 Functional Line-Item Non-Delivery Rebates offer a practical solution for agencies to ensure cost-effective procurement, enhance vendor accountability, and encourage robust, feature-compliant product delivery. By clearly linking payment to performance, FLINDR delivers several strategic benefits:
