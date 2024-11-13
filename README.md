@@ -2,7 +2,7 @@
 - Version 0.1.2
 
 This repository contains various white papers developed by Nodetus Integrators LLC. Each white paper focuses on specific aspects of IT advisory, prompt engineering, contracting, procurement and acquisitions strategies. For example, there are tools for LLM evaluation, IT spend analysis, modular and flexible contract planning that provide insights, guidelines, and frameworks for strategic decision-making.
-- **GOAL** Our goal is to provide free resources and insight to Federal Acquisition offices, to help tax payer money become more efficient when making IT purchases in the rapidly evolving landscape brought on by AI and other emerging technologies.
+- **GOAL** Our goal is to provide free resources and insight to Federal Acquisition offices, to help tax payer money become more efficient when making IT purchases in the rapidly evolving landscape brought on by AI and other emerging technologies. Secondary, is to utilize agile methods, organizational models and best-practice project and product management for use by acquisition offices, to provide services to IT related needs but also general acquisitio and procurement needs.
 
 ## Directories
 
