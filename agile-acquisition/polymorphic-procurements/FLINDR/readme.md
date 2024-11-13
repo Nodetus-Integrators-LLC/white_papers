@@ -1,4 +1,4 @@
-# White Paper: Functional Line-Item Non-Delivery Rebates in Polymorphic Procurement
+# WHITE PAPER | Functional Line-Item Non-Delivery Rebates in Polymorphic Procurement
 
 ## Introduction
 The **Functional Line-Item Non-Delivery Rebate** (FLINDR) is a key component of Polymorphic Procurement. This approach introduces financial rebates for undelivered or underperforming product features, ensuring that agencies only pay for what works as promised. FLINDR redefines procurement contracts by promoting accountability and protecting agencies from paying for features that fall short of their stated functionality. In the same spirit, there should be encouragement from the federal space to vendors when near-perfect (95%) delivery is executed through high CPARs, or even bonus/award-fees (beyond the scope of this white paper).
