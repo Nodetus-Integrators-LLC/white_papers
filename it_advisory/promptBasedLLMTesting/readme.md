@@ -1,4 +1,4 @@
-# Prompt-Based Playbook for Testing Underlying LLM Models
+# WHITE PAPER | Prompt-Based Playbook for Testing Underlying LLM Models
 
 ## Table of Contents
 1. [Overview](#overview)
